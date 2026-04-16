@@ -1,0 +1,33 @@
+.card{
+    background-color: white;
+    width: 300px;
+    padding: 20 px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px gray;
+}
+
+body{
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    height: 100 vh;
+}
+
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+}
+
+.lista{
+    text-align: center;
+}
